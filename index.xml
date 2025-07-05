@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Inicio</title>
-    <link>https://hardware.github.io/</link>
+    <link>https://github.com/CamiLarsen/hardware.github.io.git/</link>
     <description>Recent content on Inicio</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>es</language>
     <lastBuildDate>Mon, 30 Jun 2025 18:51:00 -0300</lastBuildDate>
-    <atom:link href="https://hardware.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/CamiLarsen/hardware.github.io.git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://hardware.github.io/justificacion/</link>
+      <link>https://github.com/CamiLarsen/hardware.github.io.git/justificacion/</link>
       <pubDate>Mon, 30 Jun 2025 18:51:00 -0300</pubDate>
-      <guid>https://hardware.github.io/justificacion/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Portada Justificacion&#34; loading=&#34;lazy&#34; src=&#34;https://hardware.github.io/images/portadajustif.png&#34;&gt;&lt;/p&gt;
+      <guid>https://github.com/CamiLarsen/hardware.github.io.git/justificacion/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Portada Justificacion&#34; loading=&#34;lazy&#34; src=&#34;https://github.com/CamiLarsen/hardware.github.io.git/images/portadajustif.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;elección-del-hardware&#34;&gt;Elección del Hardware&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -27,7 +27,7 @@
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th&gt;&lt;img alt=&#34;Intel&#34; loading=&#34;lazy&#34; src=&#34;https://hardware.github.io/images/intel.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;Intel&#34; loading=&#34;lazy&#34; src=&#34;https://github.com/CamiLarsen/hardware.github.io.git/images/intel.png&#34;&gt;&lt;/th&gt;
           &lt;th&gt;PROCESADOR: Intel Core i7 13700h&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
@@ -61,16 +61,16 @@
     </item>
     <item>
       <title></title>
-      <link>https://hardware.github.io/requisitos/</link>
+      <link>https://github.com/CamiLarsen/hardware.github.io.git/requisitos/</link>
       <pubDate>Mon, 30 Jun 2025 18:50:53 -0300</pubDate>
-      <guid>https://hardware.github.io/requisitos/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Portada Requisitos&#34; loading=&#34;lazy&#34; src=&#34;https://hardware.github.io/images/portadarequis.png&#34;&gt;&lt;/p&gt;
+      <guid>https://github.com/CamiLarsen/hardware.github.io.git/requisitos/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Portada Requisitos&#34; loading=&#34;lazy&#34; src=&#34;https://github.com/CamiLarsen/hardware.github.io.git/images/portadarequis.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;software-requerido&#34;&gt;Software requerido&lt;/h2&gt;
 &lt;h3 id=&#34;autodesk-fusion&#34;&gt;Autodesk Fusion&lt;/h3&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th&gt;&lt;img alt=&#34;Autodesk&#34; loading=&#34;lazy&#34; src=&#34;https://hardware.github.io/images/autodesk.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;Autodesk&#34; loading=&#34;lazy&#34; src=&#34;https://github.com/CamiLarsen/hardware.github.io.git/images/autodesk.png&#34;&gt;&lt;/th&gt;
           &lt;th&gt;Software de modelado 3D y diseño asistido por computadora, utilizado para crear piezas mecánicas y simulaciones. Ideal para ingeniería de productos.&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
@@ -81,7 +81,7 @@
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th&gt;&lt;img alt=&#34;Visual Studio Code&#34; loading=&#34;lazy&#34; src=&#34;https://hardware.github.io/images/visual.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;Visual Studio Code&#34; loading=&#34;lazy&#34; src=&#34;https://github.com/CamiLarsen/hardware.github.io.git/images/visual.png&#34;&gt;&lt;/th&gt;
           &lt;th&gt;Editor de código fuente liviano pero potente, compatible con múltiples lenguajes y extensiones.&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
@@ -92,7 +92,7 @@
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th&gt;&lt;img alt=&#34;Adobe Acrobat&#34; loading=&#34;lazy&#34; src=&#34;https://hardware.github.io/images/adobe.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;Adobe Acrobat&#34; loading=&#34;lazy&#34; src=&#34;https://github.com/CamiLarsen/hardware.github.io.git/images/adobe.png&#34;&gt;&lt;/th&gt;
           &lt;th&gt;Software que permite visualizar, anotar e imprimir documentos PDF, útil para manuales técnicos o informes.&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
@@ -103,7 +103,7 @@
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th&gt;&lt;img alt=&#34;Proteus&#34; loading=&#34;lazy&#34; src=&#34;https://hardware.github.io/images/proteus.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;Proteus&#34; loading=&#34;lazy&#34; src=&#34;https://github.com/CamiLarsen/hardware.github.io.git/images/proteus.png&#34;&gt;&lt;/th&gt;
           &lt;th&gt;Entorno de simulación y diseño electrónico que permite crear esquemas eléctricos y circuitos impresos.&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
@@ -177,10 +177,10 @@
     </item>
     <item>
       <title></title>
-      <link>https://hardware.github.io/presupuesto/</link>
+      <link>https://github.com/CamiLarsen/hardware.github.io.git/presupuesto/</link>
       <pubDate>Mon, 30 Jun 2025 18:50:46 -0300</pubDate>
-      <guid>https://hardware.github.io/presupuesto/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Portada Presupuesto&#34; loading=&#34;lazy&#34; src=&#34;https://hardware.github.io/images/portadapresup.png&#34;&gt;&lt;/p&gt;
+      <guid>https://github.com/CamiLarsen/hardware.github.io.git/presupuesto/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Portada Presupuesto&#34; loading=&#34;lazy&#34; src=&#34;https://github.com/CamiLarsen/hardware.github.io.git/images/portadapresup.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;presupuesto-estimado&#34;&gt;Presupuesto estimado&lt;/h2&gt;
 &lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
 &lt;table&gt;
@@ -248,10 +248,10 @@
     </item>
     <item>
       <title></title>
-      <link>https://hardware.github.io/conclusiones/</link>
+      <link>https://github.com/CamiLarsen/hardware.github.io.git/conclusiones/</link>
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://hardware.github.io/conclusiones/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Portada Conclusiones&#34; loading=&#34;lazy&#34; src=&#34;https://hardware.github.io/images/portadaconclu.png&#34;&gt;&lt;/p&gt;
+      <guid>https://github.com/CamiLarsen/hardware.github.io.git/conclusiones/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Portada Conclusiones&#34; loading=&#34;lazy&#34; src=&#34;https://github.com/CamiLarsen/hardware.github.io.git/images/portadaconclu.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;conclusiones-del-proyecto-de-hardware&#34;&gt;Conclusiones del Proyecto de Hardware&lt;/h2&gt;
 &lt;p&gt;El desarrollo de este trabajo permitió aplicar de forma práctica los conocimientos adquiridos en la materia &lt;strong&gt;Laboratorio de Hardware&lt;/strong&gt;, trabajando desde la selección de componentes hasta el diseño de una estación de trabajo profesional para entornos de ingeniería.&lt;/p&gt;
 &lt;hr&gt;
